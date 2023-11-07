@@ -20,7 +20,7 @@ https://www.zerodayinitiative.com/blog/2023/11/1/unpatched-powerful-ssrf-in-exch
  	mscorlib.dll!System.Threading.Tasks.Task.ExecuteWithThreadLocal(ref System.Threading.Tasks.Task currentTaskSlot) (IL=0x00E1, Native=0x00007FFBD7AC8580+0x228)
  	mscorlib.dll!System.Threading.Tasks.Task.ExecuteEntry(bool bPreventDoubleExecution) (IL≈0x0058, Native=0x00007FFBD7AC8460+0xC8)
  	mscorlib.dll!System.Threading.ThreadPoolWorkQueue.Dispatch() (IL=0x00A4, Native=0x00007FFBD7AC7350+0x1C2)
-
+```
 
 ## Screenshot
 ![first poc ssrf success](https://laughing-markdown-pics.oss-cn-shenzhen.aliyuncs.com/20231106181435.png)

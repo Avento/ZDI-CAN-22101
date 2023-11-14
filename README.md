@@ -22,5 +22,3 @@ mscorlib.dll!System.Threading.Tasks.Task.ExecuteEntry(bool bPreventDoubleExecuti
 mscorlib.dll!System.Threading.ThreadPoolWorkQueue.Dispatch() (IL=0x00A4, Native=0x00007FFBD7AC7350+0x1C2)
 ```
 
-## Screenshot
-![first poc ssrf success](https://laughing-markdown-pics.oss-cn-shenzhen.aliyuncs.com/20231106181435.png)
